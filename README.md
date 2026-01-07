@@ -7,7 +7,8 @@ This project was developed as part of a **React JS internship assessment**, with
 
 ## 🌟 Preview
 
-![Notes App Live Working]([https://via.placeholder.com/800x450/4f46e5/ffffff?text=Notes+App+Screenshot](https://notes-management-app-t3a2.vercel.app/))
+🚀 **Live Application:**  
+🔗 https://notes-management-app-t3a2.vercel.app/
 
 ---
 
